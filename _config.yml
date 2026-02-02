@@ -1,0 +1,6 @@
+remote_theme: jeffreytse/jekyll-theme-yat
+plugins:
+  - jekyll-remote-theme
+
+title: RiosHub
+description: My project hub
