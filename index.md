@@ -5,8 +5,18 @@ title: RiosHub
 
 # Welcome to RiosHub
 
-This is my main hub for projects, links, and more.
+Your central hub for all projects and links.
 
-- [Project 1](#)
-- [Project 2](#)
-- [GitHub](https://github.com/brios96)
+## Projects
+- [Project 1](#) – short description
+- [Project 2](#) – short description
+- [GitHub](https://github.com/brios96) – my GitHub profile
+
+## Resources
+- [Blog](#) – my blog or notes
+- [Media](#) – videos, music, or images
+- [Portfolio](#) – my portfolio site
+
+## About
+This is my personal hub to collect all my work and projects in one place.
+
