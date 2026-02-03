@@ -8,7 +8,7 @@ title: RiosHub
 Your central hub for all projects and links.
 
 ## Projects
-- [Project 1](#) – short description
+- [Project 1]() – short description
 - [Project 2](#) – short description
 - [GitHub](https://github.com/brios96) – my GitHub profile
 
